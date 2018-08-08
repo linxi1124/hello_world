@@ -1,2 +1,2 @@
 # hello_world
-just a example
+This is h2s's first usage of github,so it is pretty hard for me！
